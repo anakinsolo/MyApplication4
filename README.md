@@ -1,4 +1,4 @@
-# MyApplication4
+# BLE Sensortag tracking
 Thesis source code
 BLE
 Sensor fusion
